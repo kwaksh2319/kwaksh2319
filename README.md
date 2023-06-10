@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=false&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319)](https://github.com/kwaksh2319/WebDemo)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=false)
