@@ -2,6 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=false&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwaksh2319&repo=WebDemoBackEnd)]([https://github.com/kwaksh2319/WebDemoBackEnd])
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksh2319&hide_progress=true)
 <!--
 **kwaksh2319/kwaksh2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
