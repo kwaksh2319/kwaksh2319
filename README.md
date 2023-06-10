@@ -7,7 +7,7 @@
 
 
 
-[![Solved.ac Profile](https://career.programmers.co.kr/pr/tomjom_6272)](https://career.programmers.co.kr/pr/tomjom_6272)
+
 <!--
 **kwaksh2319/kwaksh2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
