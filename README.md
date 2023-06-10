@@ -1,9 +1,9 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=false&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksh2319&layout=donut-vertical)](https://github.com/kwaksh2319/WebDemoBackEnd)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&show_icons=false&theme=transparent) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksh2319&layout=donut-vertical)](https://github.com/kwaksh2319/WebDemoBackEnd)<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwaksh2319&repo=WebDemoBackEnd)]([https://github.com/kwaksh2319/WebDemoBackEnd])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwaksh2319&repo=WebDemo)]([https://github.com/kwaksh2319/WebDemo])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwaksh2319&repo=WebDemoBackEnd)]([https://github.com/kwaksh2319/WebDemoBackEnd])<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwaksh2319&repo=WebDemo)]([https://github.com/kwaksh2319/WebDemo])<br>
 
 
 <!--
