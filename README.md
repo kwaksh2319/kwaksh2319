@@ -1,7 +1,9 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical) <br>
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)](https://github.com/kwaksh2319/github-readme-stats)<br>
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&count_private=true&show_icons=true&&theme=radical)](https://github.com/kwaksh2319/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&hide=stars&contribs&count_private=true&show_icons=true&&theme=radical) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksh2319&layout=donut-vertical)](https://github.com/kwaksh2319/WebDemoBackEnd)<br>
 
