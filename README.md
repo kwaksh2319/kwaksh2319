@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical) <br>
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319)](https://github.com/kwaksh2319/github-readme-stats)<br>
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwaksh2319&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)](https://github.com/kwaksh2319/github-readme-stats)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksh2319&layout=donut-vertical)](https://github.com/kwaksh2319/WebDemoBackEnd)<br>
 
