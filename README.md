@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwaksh2319" alt="kwaksh2319" /></a> </p>
 
-- 🔭 I’m currently working **on my company web develop and my personal portfolio** on [https://github.com/kwaksh2319/WebDemoBackEnd.git](https://github.com/kwaksh2319/WebDemoBackEnd.git)
+- 🔭 I am currently working on **company web development and my personal portfolio** [https://github.com/kwaksh2319/WebDemoBackEnd.git](https://github.com/kwaksh2319/WebDemoBackEnd.git)
 
 - 🌱 I’m currently learning **Spring, java**
 
