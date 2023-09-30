@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwaksh2319&label=Profile%20views&color=0e75b6&style=flat" alt="kwaksh2319" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwaksh2319" alt="kwaksh2319" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwaksh2319" alt="kwaksh2319" ></a> </p>
 
 - 🔭 I am currently working on **company web development and my personal portfolio** [https://github.com/kwaksh2319/WebDemoBackEnd.git](https://github.com/kwaksh2319/WebDemoBackEnd.git)
 
