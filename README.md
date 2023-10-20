@@ -26,4 +26,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwaksh2319)](https://solved.ac/kwaksh2319/)
 
-<Strong>HackerRank rest api certificate</Strong> : [click!!](https://www.hackerrank.com/certificates/21bbb540d0e8) 
+<Strong><h3>HackerRank rest api certificate</h3></Strong> : [click!!](https://www.hackerrank.com/certificates/21bbb540d0e8) 
